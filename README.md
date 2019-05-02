@@ -1,3 +1,5 @@
+#BF
+
 # Deps
 1.  go get -u github.com/golang/protobuf/protoc-gen-go
 2.  go get -u github.com/gobwas/ws
