@@ -1,4 +1,7 @@
-#BF
+# Bfmq
+
+a tiny websocket lockstep game server for moba rts fps ....
+very fast!!!
 
 # Deps
 1.  go get -u github.com/golang/protobuf/protoc-gen-go
