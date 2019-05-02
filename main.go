@@ -62,7 +62,7 @@ func init() {
 }
 
 func main() {
-	ln, err := net.Listen("tcp", "192.168.0.45:7737")
+	ln, err := net.Listen("tcp", "127.0.0.1:7737")
 	if err != nil {
 		return
 	}
