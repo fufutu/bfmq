@@ -14,6 +14,9 @@ very fast!!!
 # Example 
 1.  testbfmq.go
 
+# Thanks
+fighting https://github.com/viphxin/fighting
+
 # Projects
 ![demo](https://github.com/DAN-AND-DNA/bfmq/blob/master/img/201952-125413.jpg)
 
